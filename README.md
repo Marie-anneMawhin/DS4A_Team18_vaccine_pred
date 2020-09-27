@@ -3,7 +3,7 @@
 [Trello](https://trello.com/b/UxeDkgoC/ds4a)
 
 
-[Project Outline](https://docs.google.com/document/d/1_-i52k9PtBssEZfVpFjlNdbDPPtV6OpyDR3Ip8ZeDiU/edit)
+[Official Project Outline](https://docs.google.com/document/d/1_-i52k9PtBssEZfVpFjlNdbDPPtV6OpyDR3Ip8ZeDiU/edit)
 
 [Project Proposal](https://docs.google.com/document/d/1_2fzYLPYrw7JpemN3-rzLZ8ESf6PcOyjhYG1feM1Yis/edit)
 
