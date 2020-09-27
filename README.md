@@ -24,9 +24,13 @@ Files:
 
 -Data Cleaning. Input: Raw Data. Output: Cleaned Data
 
--Data Imputation. Input: Cleaned Data. Output: Imputed Data
+-Data Imputation. Input: Cleaned Data. Output: Imputed Data (Naici) 
+
+-EDA. Input: Imputed Data. Output: Graphs
 
 -Files for each Model. Input: Imputed Data. Output: Model performance (PRAUC), Image, Feature Importance List
+
+-Logisitc Regression (Maryia)
 
 
 
