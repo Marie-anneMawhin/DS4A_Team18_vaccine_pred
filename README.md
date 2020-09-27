@@ -19,3 +19,15 @@
 
 [Flu Vaccine Benchmark](https://www.drivendata.co/blog/predict-flu-vaccine-data-benchmark/)
 
+
+Files:
+
+-Data Cleaning. Input: Raw Data. Output: Cleaned Data
+-Data Imputation. Input: Cleaned Data. Output: Imputed Data
+-Files for each Model. Input: Imputed Data. Output: Model performance (PRAUC), Image, Feature Importance List
+
+
+
+
+
+
