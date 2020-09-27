@@ -34,6 +34,8 @@ Files:
 
 -Random Forrest (Miriam)
 
+-XGBoost (Marie-Anne)
+
 
 
 
