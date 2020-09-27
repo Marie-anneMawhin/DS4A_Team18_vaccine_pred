@@ -32,6 +32,8 @@ Files:
 
 -Logisitc Regression (Maryia)
 
+-Random Forrest (Miriam)
+
 
 
 
