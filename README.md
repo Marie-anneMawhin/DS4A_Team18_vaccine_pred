@@ -1,7 +1,7 @@
 # DS4A_Team18_vaccin_pred
 
-Trello is dead, use kanban instead: [kanban](https://github.com/Marie-anneMawhin/DS4A_Team18_vaccine_pred/projects/1)
-
+Trello is dead, use kanban instead: [kanban](https://github.com/Marie-anneMawhin/DS4A_Team18_vaccine_pred/projects/1) in projects
+Add note (+) and convert to issue to tag people and label.Current tasks are in issues
 
 [Official Project Outline](https://docs.google.com/document/d/1_-i52k9PtBssEZfVpFjlNdbDPPtV6OpyDR3Ip8ZeDiU/edit)
 
