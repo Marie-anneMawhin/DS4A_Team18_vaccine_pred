@@ -18,7 +18,7 @@ Repository structure
 <br/><br/>
   
 `Nb`  
-Jupyter notebook for both h1n1 and seasonal flu:
+<p>Jupyter notebook for both h1n1 and seasonal flu: <p>
 - encoding, SMOTE, EDA, PCA, clustering
 - RF classifier and feature importance (gini)
 - hyperparameter tuning (model_selection, xgb): for logistic regression, support vector machine classifier (SVC), random forest classifier, XGBoost classifier
