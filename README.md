@@ -10,8 +10,7 @@ Repository structure
 ---
 
 `Data`  
-<p> as csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)
-<br/><br/>
+<p>As csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)<p>
 
 `Graphs`  
 - EDA (missingness, distribution, MCA, PCA, correlation matrix, regression)
@@ -27,8 +26,7 @@ Jupyter notebook for both h1n1 and seasonal flu:
 <br/><br/>
 
 `Results`  
-details of GridSearchCV for every models
-<br/><br/>
+<p>Details of GridSearchCV for every models<p>
 
 
 
