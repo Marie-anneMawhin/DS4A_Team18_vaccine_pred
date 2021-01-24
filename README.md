@@ -10,7 +10,7 @@ Repository structure
 ---
 
 `Data`  
-as csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)
+<p> as csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)
 <br/><br/>
 
 `Graphs`  
