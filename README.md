@@ -10,7 +10,7 @@ Repository structure
 ---
 
 `Data`  
-<p>As csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)<p> <br/><br/>
+<p>As csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)<br/><br/>
   
 `Graphs`  
 - EDA (missingness, distribution, MCA, PCA, correlation matrix, regression)
