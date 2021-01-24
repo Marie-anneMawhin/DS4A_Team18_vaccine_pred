@@ -18,7 +18,7 @@ as csv (training set (labels and features), test set, imputed, imputed and hot e
 - Plot of feature importance (gini/coefficients, permutation, SHAP for h1n1 and seasonal with or without doctor recommendations and meta-analysis)
 <br/><br/>
   
-`Nb`
+`Nb`  
 Jupyter notebook for both h1n1 and seasonal flu:
 - encoding, SMOTE, EDA, PCA, clustering
 - RF classifier and feature importance (gini)
@@ -26,7 +26,7 @@ Jupyter notebook for both h1n1 and seasonal flu:
 - feature importance: using gini/coefficients, permutation or SHAP for logistic regression, support vector machine classifier (SVC), random forest classifier, XGBoost classifier
 <br/><br/>
 
-`Results`
+`Results`  
 details of GridSearchCV for every models
 <br/><br/>
 
