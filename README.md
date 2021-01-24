@@ -11,6 +11,7 @@ Repository structure
 
 `Data`  
 <p>As csv (training set (labels and features), test set, imputed, imputed and hot encoded, smote balanced)<p> <br/><br/>
+  
 `Graphs`  
 - EDA (missingness, distribution, MCA, PCA, correlation matrix, regression)
 - Plot of feature importance (gini/coefficients, permutation, SHAP for h1n1 and seasonal with or without doctor recommendations and meta-analysis)
